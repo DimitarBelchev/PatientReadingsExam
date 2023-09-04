@@ -1,0 +1,1 @@
+export const HEALTH_READING_INTERVAL = 3600*1000;
